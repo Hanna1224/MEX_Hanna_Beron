@@ -1,0 +1,9 @@
+USER
+USERNAME;admin
+PASSWORD;admin1234
+
+ADMIN
+USERNAME;admin
+PASSWORD;admin
+
+
